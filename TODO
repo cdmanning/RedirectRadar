@@ -1,0 +1,7 @@
+- [X] Add an on/off toggle for URL logging
+- [X] Integrate with localStorage for persistence 
+- [X] Implement a save button to export logs to filesystem
+- [X] Implement a "Whitelist" to exclude URLs from logging (e.g. chrome-extension://, chrome://)
+- [X] Add dynamic extension icon support
+- [] Add a options page (e.g. Export File Type, Automatic Log Purging, Automatic Log Backups, Whitelist)
+- [] Add a copy button to allow easier copying of URLs
