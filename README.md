@@ -20,6 +20,6 @@ Install the "RedirectRadar" extension directly from the [Chrome Web Store](http:
 
 Browse the web as you normally would. RedirectRadar operates non-intrusively in the background, intercepting and recording navigation events as they occur.
 
-### 3. Trace the Redirect
+### 3. Identify the Redirect
 
 In the event of an unexpected redirection, access the extension popup to view the chronological list of navigated URLs.
