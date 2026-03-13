@@ -12,6 +12,17 @@ function isExcluded(url) {
   return true;
 }
 
+function updateIcon(isOn) {
+  const iconPath = isOn ? "icons/icon_active_48.png" : "icons/icon_inactive_48.png";
+  chrome.action.setIcon({ path: iconPath });
+}
+
+chrome.runtime.onStartup.addListener(() => {
+  chrome.storage.local.get({ isOn: true }, (data) => {
+    updateIcon(data.isOn);
+  });
+});
+
 chrome.webNavigation.onBeforeNavigate.addListener((details) => {
   if (details.frameId !== 0) return;
   if (!isExcluded(details.url)) return;
