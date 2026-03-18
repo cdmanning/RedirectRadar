@@ -1,6 +1,6 @@
 :root {
     /* Shared */
-    --toggle-on: #28a745;
+    --toggle-on: #24b445;
     --warning: #ffc107;
 
     /* Light */
@@ -13,7 +13,7 @@
     --scrollbar-thumb: #BDC1C6;
     --scrollbar-thumb-hover: #909499;
     --blue: #0056b3;
-    --green: #3ce263;
+    --green: #24b445;
     --yellow: #CCFF00;
     --white: #495057;
 }
