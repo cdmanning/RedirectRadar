@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     exportBtn.addEventListener('click', () => {
-        chrome.storage.local.get({ logs: [], subFolder: 'RedirectRadar' }, (data) => {
+        chrome.storage.local.get({ logs: [], subFolder: 'Redirect Radar' }, (data) => {
             if (data.logs.length === 0) return;
             const content = data.logs.map(l => `[${l.timestamp}] ${l.url}`).join('\n');
             const blob = new Blob([content], { type: 'text/plain' });

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "RedirectRadar",
-  "short_name": "RedirectRadar",
+  "name": "Redirect Radar",
+  "short_name": "Redirect Radar",
   "description": "Monitor and log those sneaky URL redirects",
   "version": "1.0.1",
   "author": "Starswept Development",
@@ -16,7 +16,7 @@
       "48": "icons/icon_active_48.png"
     },
     "default_popup": "/popup/popup.html",
-    "default_title": "RedirectRadar"
+    "default_title": "Redirect Radar"
   },
   "background": {
     "service_worker": "background.js"
