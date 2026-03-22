@@ -1,4 +1,4 @@
-# ![](documentation/ReadMeIcon.png) Redirect Radar
+# ![](docs/assets/ReadMeIcon.png) Redirect Radar
 
 Redirect Radar is a lightweight security tool designed to catch sneaky URL redirects. From aggressive ad-trackers to annoying hops, Redirect Radar unmasks every redirect so you can take control and block them.
 
