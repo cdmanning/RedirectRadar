@@ -14,7 +14,7 @@ Redirect Radar is a lightweight security tool designed to catch sneaky URL redir
 
 ### 1. Installation
 
-Install the "Redirect Radar" extension directly from the [Chrome Web Store](http://chromewebstore.google.com/detail/) 
+Install the "Redirect Radar" extension directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/redirect-radar/hamkbfbechmdapnpcbljoblmhjllkmno) 
 
 ### 2. Monitor in the Background
 
