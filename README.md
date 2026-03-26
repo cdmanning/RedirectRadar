@@ -4,7 +4,7 @@ Redirect Radar is a lightweight security tool designed to catch sneaky URL redir
 
 ## ✨ Features
 
-* **Performance First:** Toggle Image Monitoring on/off to run only when needed for minimal impact on browsing.
+* **Performance First:** Toggle URL monitoring on/off to run only when needed for minimal impact on browsing.
 * **Efficient Logging:** Automatically logs your last 50 redirects using keeping bloat out of the browser.
 * **Adaptive UI:** Fully responsive design that respects your system’s Light or Dark mode.
 * **Organized Export:** Cleanly export your logs to a dedicated `/Redirect Radar` folder on your system to avoid download clutter.
